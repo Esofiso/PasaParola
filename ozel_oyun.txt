@@ -1,0 +1,31 @@
+450
+çok özel oyun 1
+A|Atatürk'ün doğduğu şehir?|SELANİK
+B|Bilgisayar markası?|ASUS
+C|Camın hammaddesi?|KUM
+A|Atatürk'ün doğduğu şehir?|SELANİK
+B|Bilgisayar markası?|ASUS
+C|Camın hammaddesi?|KUM
+A|Atatürk'ün doğduğu şehir?|SELANİK
+B|Bilgisayar markası?|ASUS
+C|Camın hammaddesi?|KUM
+A|Atatürk'ün doğduğu şehir?|SELANİK
+B|Bilgisayar markası?|ASUS
+C|Camın hammaddesi?|KUM
+A|Atatürk'ün doğduğu şehir?|SELANİK
+B|Bilgisayar markası?|ASUS
+C|Camın hammaddesi?|KUM
+A|Atatürk'ün doğduğu şehir?|SELANİK
+B|Bilgisayar markası?|ASUS
+C|Camın hammaddesi?|KUM
+A|Atatürk'ün doğduğu şehir?|SELANİK
+B|Bilgisayar markası?|ASUS
+C|Camın hammaddesi?|KUM
+A|Atatürk'ün doğduğu şehir?|SELANİK
+B|Bilgisayar markası?|ASUS
+C|Camın hammaddesi?|KUM
+A|Atatürk'ün doğduğu şehir?|SELANİK
+B|Bilgisayar markası?|ASUS
+C|Camın hammaddesi?|KUM
+A|Atatürk'ün doğduğu şehir?|SELANİK
+B|Bilgisayar markası?|ASUS
