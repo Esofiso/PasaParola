@@ -1,3 +1,6 @@
+# @02.01.2026 by esofiso
+# https://github.com/Esofiso/PasaParola
+
 import sys
 import math
 import json
@@ -615,4 +618,5 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     main = MainApp()
     main.show()
+
     sys.exit(app.exec_())
