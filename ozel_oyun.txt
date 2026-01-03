@@ -1,31 +1,11 @@
-450
-çok özel oyun 1
-A|Atatürk'ün doğduğu şehir?|SELANİK
-B|Bilgisayar markası?|ASUS
-C|Camın hammaddesi?|KUM
-A|Atatürk'ün doğduğu şehir?|SELANİK
-B|Bilgisayar markası?|ASUS
-C|Camın hammaddesi?|KUM
-A|Atatürk'ün doğduğu şehir?|SELANİK
-B|Bilgisayar markası?|ASUS
-C|Camın hammaddesi?|KUM
-A|Atatürk'ün doğduğu şehir?|SELANİK
-B|Bilgisayar markası?|ASUS
-C|Camın hammaddesi?|KUM
-A|Atatürk'ün doğduğu şehir?|SELANİK
-B|Bilgisayar markası?|ASUS
-C|Camın hammaddesi?|KUM
-A|Atatürk'ün doğduğu şehir?|SELANİK
-B|Bilgisayar markası?|ASUS
-C|Camın hammaddesi?|KUM
-A|Atatürk'ün doğduğu şehir?|SELANİK
-B|Bilgisayar markası?|ASUS
-C|Camın hammaddesi?|KUM
-A|Atatürk'ün doğduğu şehir?|SELANİK
-B|Bilgisayar markası?|ASUS
-C|Camın hammaddesi?|KUM
-A|Atatürk'ün doğduğu şehir?|SELANİK
-B|Bilgisayar markası?|ASUS
-C|Camın hammaddesi?|KUM
-A|Atatürk'ün doğduğu şehir?|SELANİK
-B|Bilgisayar markası?|ASUS
+buraya saniye cinsinden azami süreyi yazın (örnek: 450)
+burada oyuna bir isim verin (örnek: özel oyun3)
+A|Buraya soruyu yazın?|BURAYA CEVABI YAZIN
+B|Buraya soruyu yazın?|BURAYA CEVABI YAZIN
+C|Buraya soruyu yazın?|BURAYA CEVABI YAZIN
+D|Buraya soruyu yazın?|BURAYA CEVABI YAZIN
+E|Buraya soruyu yazın?|BURAYA CEVABI YAZIN
+F|Buraya soruyu yazın?|BURAYA CEVABI YAZIN
+G|Buraya soruyu yazın?|BURAYA CEVABI YAZIN
+H|Buraya soruyu yazın?|BURAYA CEVABI YAZIN
+I|Buraya soruyu yazın?|BURAYA CEVABI YAZIN
